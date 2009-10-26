@@ -1,0 +1,48 @@
+% Basics
+\documentclass[10pt,a4paper]{article}
+\usepackage[utf8x]{inputenc}
+\usepackage{ucs}
+\usepackage[ngerman]{babel}
+\usepackage{amsmath,amsfonts,amssymb}
+\usepackage{graphicx}
+\usepackage{makeidx}
+\makeindex
+
+% File-Info
+\author{A.~Ustinov}
+\title{Experimentalphysik IV: Festk\"orperphysik}
+
+% Advantages
+\usepackage{nicefrac}
+\usepackage{fancybox}
+\usepackage{prettyref}			
+\usepackage[ngerman]{varioref}		%% Deutsches Variable Verweise (letzte Seite, etc.)
+
+% Shortcuts and Macros
+\newcounter{vorlesung}
+\newcommand{\nr}{\stepcounter{vorlesung}\marginpar{\arabic{vorlesung}. Vorlesung}}
+\renewcommand{\labelenumi}{\theenumi ) }
+\renewcommand{\labelenumii}{(\roman{enumii})}
+
+\begin{document}
+\pagenumbering{roman}
+\part{Festk\"orperphysik}
+
+\section*{Literatur}
+\begin{itemize}
+\item Hunklinger: Festkörperphysik
+\item Kittel: Einführung in die Festkörperphysik
+\item N.~W. Ashcroft, N.~D. Merim: Festkörperphysik
+\item H. Ibach, H Luth: Festkörperphysik
+\item M.~P. Marder: Condensed Matter Physics
+\item A.~A. Abrikosov: Fundamentals of the Theory of Metals
+\end{itemize}
+
+\tableofcontents
+
+\newpage
+\pagenumbering{arabic}
+\input{2009-10-20.tex}
+\input{2009-10-22.tex}
+
+\end{document}

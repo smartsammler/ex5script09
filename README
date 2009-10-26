@@ -1,0 +1,25 @@
+Vorlesungsmitschrieb/Skript zur Vorlesung 
+Experimentalphysik 5 (Festkörperphysik)
+gehalten an der Universität Karlsruhe/KIT
+im Wintersemester 2009/2010
+von Prof. Dr. A Ustinov
+
+Homepage der Vorlesung:
+	http://www.pi.uni-karlsruhe.de/lehre/physik5/
+
+Downloadseite zur Vorlesung (inkl. Übungsblätter)
+	http://www.pi.uni-karlsruhe.de/lehre/physik5.php
+
+Zum erstellen eines eigenen Skripts musst du die main.tex, sowie alle bisher vorhandenen Vorlesungstage (20yy-MM-DD.tex) herunterladen und mittels LaTeX kompilieren:
+	latex main.tex
+
+Wenn Ihr LyX (http://www.LyX.org) verwendet, so kannst du dich an robinros Version beteiligen.
+
+Für alle, die mitmachen wollen:
+	Dateiformat: 
+		LaTeX: YYYY-MM-DD.tex
+		Bilder: images/aussagekraeftigerName.{eps,jpg,png,gif}
+
+	Ein paar newcommands habe ich bereits in der main.tex erstellt.
+
+Ich bitte um Mitarbeit, sowie Anregungen.
