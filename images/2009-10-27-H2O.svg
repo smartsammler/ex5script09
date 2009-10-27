@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg4044"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   sodipodi:docname="2009-10-27-H2O.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs4046">
+    <pattern
+       inkscape:stockid="Stripes 1:1"
+       id="Strips1_1"
+       patternTransform="translate(0,0) scale(10,10)"
+       height="1"
+       width="2"
+       patternUnits="userSpaceOnUse"
+       inkscape:collect="always">
+      <rect
+         id="rect5305"
+         height="2"
+         width="1"
+         y="-0.5"
+         x="0"
+         style="fill:black;stroke:none" />
+    </pattern>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective4052" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="147.71568"
+     inkscape:cy="825.06607"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1024"
+     inkscape:window-height="697"
+     inkscape:window-x="0"
+     inkscape:window-y="25" />
+  <metadata
+     id="metadata4049">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       sodipodi:type="arc"
+       id="path4062"
+       sodipodi:cx="152.02795"
+       sodipodi:cy="142.71982"
+       sodipodi:rx="74.246216"
+       sodipodi:ry="74.246216"
+       d="M 226.27417,142.71982 A 74.246216,74.246216 0 1 1 77.781738,142.71982 A 74.246216,74.246216 0 1 1 226.27417,142.71982 z"
+       style="fill:url(#Strips1_1);fill-opacity:1"
+       transform="matrix(0.8615385,0.5076923,-0.5076923,0.8615385,93.507774,-57.422216)" />
+    <path
+       sodipodi:type="arc"
+       id="path4066"
+       sodipodi:cx="254.55844"
+       sodipodi:cy="149.28581"
+       sodipodi:rx="23.233509"
+       sodipodi:ry="23.233509"
+       d="M 277.79195,149.28581 A 23.233509,23.233509 0 1 1 231.32493,149.28581 A 23.233509,23.233509 0 1 1 277.79195,149.28581 z"
+       transform="translate(-102.53049,89.903571)" />
+    <path
+       sodipodi:type="arc"
+       id="path4064"
+       sodipodi:cx="254.55844"
+       sodipodi:cy="149.28581"
+       sodipodi:rx="23.233509"
+       sodipodi:ry="23.233509"
+       d="M 277.79195,149.28581 A 23.233509,23.233509 0 1 1 231.32493,149.28581 A 23.233509,23.233509 0 1 1 277.79195,149.28581 z"
+       transform="translate(-6.0609153,-6.5659943)" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="166.67517"
+       y="289.69699"
+       id="text4068"><tspan
+         sodipodi:role="line"
+         id="tspan4070"
+         x="166.67517"
+         y="289.69699">H</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="273.86456"
+       y="186.08925"
+       id="text4072"><tspan
+         sodipodi:role="line"
+         id="tspan4074"
+         x="273.86456"
+         y="186.08925">H</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="98.098022"
+       y="64.870934"
+       id="text6031"><tspan
+         sodipodi:role="line"
+         id="tspan6033"
+         x="98.098022"
+         y="64.870934">O</tspan></text>
+  </g>
+</svg>
