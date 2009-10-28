@@ -1,0 +1,397 @@
+#LyX 1.6.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 345
+\begin_document
+\begin_header
+\textclass scrartcl
+\begin_preamble
+\usepackage{txfonts} % für \eqqcolon
+\usepackage{calc} % für \setlength{\jot}{6pt+2mm}
+\usepackage{dcolumn} % Ausrichtung am Komma in Tabellen und Arrays: D{.}{,}{nachkommastellen}
+
+\clubpenalty = 10000	 % Schusterjungen- und
+\widowpenalty = 10000	 % Hurenkinderregelung
+\displaywidowpenalty = 10000 % und auch für Formeln
+
+% Punkt + Komma Abstände bei Tausendern/Dezimalzahlen ans dt. anpassen
+\mathcode`,="013B
+\mathcode`.="613A
+%\usepackage{pxfonts}
+  \usepackage{euler} % workaround für Mathe-Symbole (u.a. Integrale)
+\usepackage{tikz}
+\usetikzlibrary{mindmap}
+\end_preamble
+\options 10pt
+\use_default_options false
+\language ngerman
+\inputencoding auto
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_default_family default
+\font_sc true
+\font_osf true
+\font_sf_scale 100
+\font_tt_scale 100
+
+\graphics default
+\float_placement H
+\paperfontsize default
+\spacing onehalf
+\use_hyperref true
+\pdf_title "HM-VD-Übersichtszettel"
+\pdf_author "Julian Gethmann"
+\pdf_subject "Höheremathematik Vordiplom"
+\pdf_bookmarks true
+\pdf_bookmarksnumbered true
+\pdf_bookmarksopen false
+\pdf_bookmarksopenlevel 1
+\pdf_breaklinks true
+\pdf_pdfborder true
+\pdf_colorlinks false
+\pdf_backref section
+\pdf_pdfusetitle true
+\papersize a4paper
+\use_geometry true
+\use_amsmath 1
+\use_esint 1
+\cite_engine basic
+\use_bibtopic false
+\paperorientation portrait
+\leftmargin 2.5cm
+\topmargin 3.5cm
+\rightmargin 2.5cm
+\bottommargin 3.5cm
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation skip
+\defskip smallskip
+\quotes_language german
+\papercolumns 1
+\papersides 2
+\paperpagestyle fancy
+\tracking_changes false
+\output_changes false
+\author "" 
+\author "" 
+\end_header
+
+\begin_body
+
+\begin_layout Section
+Kovalente Bindungen
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $1s^{2}2s^{2}2p^{2}\to1\overbrace{s^{2}\underbrace{2s2p_{x}2p_{y}2p_{z}}_{4\times sp^{3}}}^{\text{Hybridorbitale}}\to2p_{z}+3\times sp^{2}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula \begin{eqnarray*}
+CH_{4}\\
+\text{Methan}\end{eqnarray*}
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+GRAFIK
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{tikzpicture}[mindmap,concept color=white!50]  
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+node [concept] {C^{-}}  child[grow=top] {node[concept] {Hˆ{+}}};
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{tikzpicture}  
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+FOLIEN
+\end_layout
+
+\begin_layout Subsection
+Kristalle: 
+\begin_inset Formula $C$
+\end_inset
+
+ (Diamant), 
+\begin_inset Formula $Si,\, Ge$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $A^{III}B^{V}\to In\ Sb;\ Ga\ As$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+3D Graphit
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+2D Graphen (2004)
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+1D Kohlensotff-Nanoröhren (1991) 
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+0D Fulleren 
+\begin_inset Formula $\underbrace{C_{60}}_{\varnothing7,1\,\AA}$
+\end_inset
+
+/
+\begin_inset Formula $C_{70}$
+\end_inset
+
+ (1985)
+\end_layout
+
+\begin_layout Subsection
+Metallische Bindung
+\end_layout
+
+\begin_layout Standard
+Valenzelektronen sind delokalisiert
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\to$
+\end_inset
+
+ Elektronengas
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $Li$
+\end_inset
+
+-Ionen: 
+\begin_inset Formula $r_{1}\sim0,6\,\AA$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $Li$
+\end_inset
+
+-Kristall: 
+\begin_inset Formula $R_{0}\sim3\,\AA$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\left.\dfrac{R_{0}}{r_{i}}\right|_{Cu}\sim1,33,\quad\left.\dfrac{R_{0}}{r_{i}}\right|\approx1,05$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Wasserstoffbrückenbindung
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\left.U_{i}\right|_{H}\sim13,6\,\text{eV};\quad\left.U_{i}\right|_{Na}\approx5,1\,\text{eV}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $H\to$
+\end_inset
+
+ Kovalente bindung nur mit 
+\bar under
+einem 
+\bar default
+Nachbarn
+\end_layout
+
+\begin_layout Standard
+GRAFIK
+\end_layout
+
+\begin_layout Standard
+DNA Ammoniak 
+\begin_inset Formula $NH_{3}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Struktur der Kristalle
+\end_layout
+
+\begin_layout Standard
+
+\bar under
+Symmetrie: 
+\bar default
+Transformationen 
+\begin_inset Quotes gld
+\end_inset
+
+unverändert
+\begin_inset Quotes grd
+\end_inset
+
+ erscheinen
+\end_layout
+
+\begin_layout Standard
+Mathematik 
+\begin_inset Formula $\to$
+\end_inset
+
+ Gruppentheorie
+\end_layout
+
+\begin_layout Enumerate
+Punktgruppen (mindestens 1 Punkt ist fest)
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+z.
+\begin_inset space \thinspace{}
+\end_inset
+
+B.
+ Drehung um eine Drehachse GRAFIK, FOLIE
+\end_layout
+
+\begin_layout Enumerate
+Spiegelung um eine Spiegelebene GRAFIK
+\end_layout
+
+\begin_layout Enumerate
+Punktspiegelung GRAFIK
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+Spiegelung + Drehung
+\end_layout
+
+\begin_layout Standard
+GRAFIK
+\end_layout
+
+\begin_layout Standard
+Drehinversion
+\end_layout
+
+\begin_layout Standard
+GRAFIK
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+setcounter{enumi}{2} 
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+Raumgruppen (translative Symmetrieoperationen)
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Gleitspiegelebene GRAFIK
+\end_layout
+
+\begin_layout Enumerate
+Schraubung/Torsion GRAFIK
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+Kristallstruktur=Gitter+Basis
+\end_layout
+
+\begin_layout Standard
+GRAFIK
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\underbrace{U(\vec{r})}_{\text{Umgebung}}=U(\vec{r}+\vec{R})$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\vec{R}=n_{1}\vec{a}+n_{2}\vec{b}+n_{3}\vec{c},\;\vec{a},\vec{b},\vec{c}\text{ sind Baisvektoren}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+GRAFIK
+\end_layout
+
+\end_body
+\end_document
