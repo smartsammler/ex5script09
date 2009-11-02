@@ -1,0 +1,832 @@
+#LyX file created by tex2lyx 1.6.3
+\lyxformat 249
+\begin_document
+\begin_header
+\textclass article
+\language english
+\inputencoding auto
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_default_family default
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\paperfontsize default
+\spacing single
+\papersize default
+\use_geometry false
+\use_amsmath 0
+\cite_engine basic
+\use_bibtopic false
+\paperorientation portrait
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\defskip medskip
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\end_header
+
+\begin_body
+
+\begin_layout Standard
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+% 2009-10-20
+\end_layout
+
+\begin_layout Standard
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+
+\backslash
+nr
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Section
+
+Bindungskräfte
+\end_layout
+
+\begin_layout Enumerate
+
+Bindung in Festkörpern 
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+
+Bindungstypen 
+\end_layout
+
+\begin_layout Enumerate
+
+Bindungsenergie 
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+
+Fluktuationsbindung 
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+
+Van-der-Waals-Kräfte 
+\end_layout
+
+\begin_layout Enumerate
+
+Lennard-Jones-Potential 
+\end_layout
+
+\begin_layout Enumerate
+
+Edelgaskristalle 
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+
+Ionenbindung 
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+
+Bindungsenergie 
+\end_layout
+
+\begin_layout Enumerate
+
+Inonenkristalle 
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+
+Kovalente Bindungen 
+\end_layout
+
+\begin_layout Enumerate
+
+Metallische Bindungen 
+\end_layout
+
+\begin_layout Enumerate
+
+Wasserstoffbrückenbindung 
+\end_layout
+
+\begin_layout Standard
+
+Festkörperphysik 
+\begin_inset Formula $\to$
+\end_inset
+
+ Eigenschaften fester Materialien 
+\newline
+ 
+\begin_inset Formula $\underbrace{ \text{Atomkerne}+\text{Elektronen} }_{10^{23}}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+
+Klassen von Festkörpern
+\end_layout
+
+\begin_layout Itemize
+
+Isolatoren 
+\end_layout
+
+\begin_layout Itemize
+
+Halbleiter 
+\end_layout
+
+\begin_layout Itemize
+
+Metalle 
+\end_layout
+
+\begin_layout Itemize
+
+Supraleiter 
+\end_layout
+
+\begin_layout Subsection
+
+Fundamentale Konzepte
+\end_layout
+
+\begin_layout Itemize
+
+Schrödingergleichung 
+\end_layout
+
+\begin_layout Itemize
+
+Pauli-Prinzip 
+\end_layout
+
+\begin_layout Itemize
+
+Coulombsche-Wechselwirkung 
+\end_layout
+
+\begin_layout Itemize
+
+Maxwellgleichungen 
+\end_layout
+
+\begin_layout Itemize
+
+Statistische Mechanik 
+\end_layout
+
+\begin_layout Standard
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+
+\backslash
+begin{tabbing}
+\end_layout
+
+\end_inset
+
+ \InsetSpace \qquad{}
+Unterschiedliche Atomare 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+
+\backslash
+=
+\end_layout
+
+\end_inset
+
+Ordnung 
+\newline
+ \InsetSpace \qquad{}
+
+\begin_inset Formula $\swarrow$
+\end_inset
+
+ 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+
+\backslash
+>
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset Formula $\searrow$
+\end_inset
+
+\InsetSpace \qquad{}
+
+\newline
+ idelale Kristalle
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+
+\backslash
+>
+\end_layout
+
+\end_inset
+
+ideale amorphe Festkörper 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+
+\backslash
+end{tabbing}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+%% GRAFIK %%
+\end_layout
+
+\begin_layout Standard
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+
+5 Bindungstypen
+\end_layout
+
+\begin_layout Enumerate
+
+Fluaktions-Bindung 
+\end_layout
+
+\begin_layout Enumerate
+
+Ionenbindung 
+\end_layout
+
+\begin_layout Enumerate
+
+Kovalente-Bingungen 
+\end_layout
+
+\begin_layout Enumerate
+
+metallische Bindungen 
+\end_layout
+
+\begin_layout Enumerate
+
+Wasserstoffbrückenbindung 
+\end_layout
+
+\begin_layout Subsection
+
+zweite Periode
+\end_layout
+
+\begin_layout Standard
+
+
+\begin_inset Tabular 
+<lyxtabular version="3" rows="4" columns="9">
+<features>
+<column alignment="center" valignment="top" leftline="true" rightline="true">
+<column alignment="center" valignment="top" rightline="true">
+<column alignment="center" valignment="top" rightline="true">
+<column alignment="center" valignment="top" rightline="true">
+<column alignment="center" valignment="top" rightline="true">
+<column alignment="center" valignment="top" rightline="true">
+<column alignment="center" valignment="top" rightline="true">
+<column alignment="center" valignment="top" rightline="true">
+<column alignment="center" valignment="top" rightline="true">
+<row topline="true">
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Standard
+
+Li 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Standard
+
+Be 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Standard
+
+B 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Standard
+
+C 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Standard
+
+
+\begin_inset Formula $\text{N}_2$
+\end_inset
+
+ 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Standard
+
+
+\begin_inset Formula $\text{O}_2$
+\end_inset
+
+ 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Standard
+
+
+\begin_inset Formula $\text{F}_2$
+\end_inset
+
+ 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Standard
+
+Ne 
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row topline="true">
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Standard
+
+Bindungsenergie 
+\begin_inset Formula $\nicefrac{\text{eV}}{\text{Atom}}$
+\end_inset
+
+ 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Standard
+
+1,6 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Standard
+
+3,3 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Standard
+
+5,8 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Standard
+
+7,4 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Standard
+
+4,9 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Standard
+
+2,6 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Standard
+
+0,8 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Standard
+
+0,02 
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Standard
+
+Schmelztemperatur K 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Standard
+
+453 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Standard
+
+1560 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Standard
+
+2348 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Standard
+
+4765 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Standard
+
+62 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Standard
+
+54 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Standard
+
+53 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Standard
+
+24 
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row topline="true">
+<cell multicolumn="1" alignment="none" valignment="top" topline="true" usebox="none" special="c">
+\begin_inset Text
+
+\begin_layout Standard
+
+metall. charakter. Bindung
+\begin_inset Formula $\searrow$
+\end_inset
+
+ \InsetSpace \quad{}
+
+\begin_inset Formula $\nearrow$
+\end_inset
+
+kovalente
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="2" alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\end_inset
+</cell>
+<cell multicolumn="2" alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\end_inset
+</cell>
+<cell multicolumn="2" alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\end_inset
+</cell>
+<cell multicolumn="2" alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\end_inset
+</cell>
+<cell multicolumn="1" alignment="none" valignment="top" topline="true" usebox="none" special="c">
+\begin_inset Text
+
+\begin_layout Standard
+
+
+\begin_inset Formula $\underbrace{\phantom{\qquad\qquad\qquad}}_{\text{Molekülkristalle}}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="2" alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\end_inset
+</cell>
+<cell multicolumn="2" alignment="center" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\end_inset
+</cell>
+<cell alignment="none" valignment="top" topline="true" usebox="none">
+\begin_inset Text
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+Potential (Abstoßung) zwischen neutralen Atomen (Molekülen) mit abgeschlossener Elektronenschale
+\end_layout
+
+\begin_layout Standard
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+%% GRAFIK %%
+\end_layout
+
+\begin_layout Standard
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+
+\begin_inset Formula $\phi (r)=\dfrac{A}{r^m},\, m=12$
+\end_inset
+
+ oder 
+\begin_inset Formula $\phi(r)=A^\prime \text{e}^{\nicefrac{r}{\rho}}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+
+Van-der-Waals-Bindung
+\end_layout
+
+\begin_layout Standard
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Standard
+
+%% GRAFIK %%
+\end_layout
+
+\begin_layout Standard
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+
+\begin_inset Formula \begin{eqnarray}
+\varphi(r) & \sim & \dfrac{\vec{P}_1\vec{P}_2}{r^3}-\dfrac{3(\vec{P}_1\vec{r})(\vec{P}_2\vec{r})}{r^5} \notag \\
+\vec{P}_1 \parallel \vec{P}_2 \to \varphi(r) & = & -\dfrac{2P_1 P_2}{r^3} \notag \\
+\varphi & \sim & -\dfrac{P_1 P_2}{r^3} \sim \dfrac{1}{r^6}\label{eq:van-der-waal-potential}
+\end{eqnarray}
+\end_inset
+
+ (
+\begin_inset LatexCommand \ref{eq:van-der-waal-potential}
+
+\end_inset
+
+) heißt Van-der-Waal-Potential
+\end_layout
+
+\begin_layout Standard
+
+
+\begin_inset Formula \[\varphi(r)=\dfrac{A}{r^{12}}-\dfrac{B}{r^6}\equiv \underbrace{4\varepsilon\left[\left(\dfrac{\sigma}{r}\right)^{12}-\left(\sigma\right)^6\right]}_{\text{Lennard-Jones-Potential}} \qquad A=4\varepsilon \sigma^{12},\;B=4\varepsilon \sigma^6\]
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document
