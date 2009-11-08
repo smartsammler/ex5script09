@@ -1,0 +1,763 @@
+#LyX 1.6.4.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 345
+\begin_document
+\begin_header
+\textclass scrartcl
+\begin_preamble
+\usepackage{txfonts} % für \eqqcolon
+\usepackage{calc} % für \setlength{\jot}{6pt+2mm}
+\usepackage{dcolumn} % Ausrichtung am Komma in Tabellen und Arrays: D{.}{,}{nachkommastellen}
+
+\clubpenalty = 10000	 % Schusterjungen- und
+\widowpenalty = 10000	 % Hurenkinderregelung
+\displaywidowpenalty = 10000 % und auch für Formeln
+
+% Punkt + Komma Abstände bei Tausendern/Dezimalzahlen ans dt. anpassen
+\mathcode`,="013B
+\mathcode`.="613A
+%\usepackage{pxfonts}
+  \usepackage{euler} % workaround für Mathe-Symbole (u.a. Integrale)
+
+\usepackage{fancyhdr}
+\chead{Tut 10 Mario Prausa}
+\rhead{Julian Gethmann 1432231}
+\pagestyle{fancy}
+
+\usepackage{ulem}
+\end_preamble
+\options 10pt
+\use_default_options false
+\language ngerman
+\inputencoding auto
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_default_family default
+\font_sc true
+\font_osf true
+\font_sf_scale 100
+\font_tt_scale 100
+
+\graphics default
+\float_placement H
+\paperfontsize default
+\spacing onehalf
+\use_hyperref true
+\pdf_title "Theo C - Übungsblatt"
+\pdf_author "Julian Gethmann"
+\pdf_subject "Elektrodynamik"
+\pdf_bookmarks true
+\pdf_bookmarksnumbered true
+\pdf_bookmarksopen false
+\pdf_bookmarksopenlevel 1
+\pdf_breaklinks true
+\pdf_pdfborder true
+\pdf_colorlinks false
+\pdf_backref section
+\pdf_pdfusetitle true
+\papersize a4paper
+\use_geometry true
+\use_amsmath 1
+\use_esint 1
+\cite_engine basic
+\use_bibtopic false
+\paperorientation portrait
+\leftmargin 2.5cm
+\topmargin 3.5cm
+\rightmargin 2.5cm
+\bottommargin 3.5cm
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation skip
+\defskip smallskip
+\quotes_language german
+\papercolumns 1
+\papersides 2
+\paperpagestyle empty
+\tracking_changes false
+\output_changes false
+\author "" 
+\author "" 
+\end_header
+
+\begin_body
+
+\begin_layout Standard
+5-12.2009
+\end_layout
+
+\begin_layout Standard
+\begin_inset FormulaMacro
+\newcommand{\efkt}[1]{\text{e}^{#1}}
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $A_{B}\sim\underbrace{\sum_{\text{alle ZZ}}\efkt{-i\vec{K}\vec{R}}}_{\text{Gitterfaktor}}\underbrace{\sum_{\text{alle Atome}}\efkt{-i\vec{K}\vec{R}}}_{\text{Strukturfaktor}}f_{\alpha}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Strukturfaktor
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $S=\sum_{\text{alle Atome}}f_{\alpha}\efkt{-i\vec{K}\vec{r}_{\alpha}}$
+\end_inset
+
+ bestimmt Intensität, Auslöschung möglich
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Beispiel:
+\series default
+ bcc Gitter 
+\begin_inset Formula $\vec{r}_{1}=(0,\,0,\,0),\;\vec{r}_{2}=\left(\frac{1}{2},\:\frac{1}{2},\,\frac{1}{2}\right),\quad f_{1}=f_{2}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+aus Gitterfaktor 
+\begin_inset Formula $\vec{K}=\vec{B}=h\vec{b}_{1}+k\vec{b}_{2}+l\vec{b}_{3}\quad h,\, k,\, l\in\mathbb{Z}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula \[
+S=f_{1}(\underbrace{\efkt 0}_{1}+\underbrace{\efkt{-i\pi(h+k+l)}}_{\text{gerade =+1, ungerade =-1}}\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection
+Atomstrukturfaktor 
+\begin_inset Formula $f_{\alpha}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $f_{\alpha}=\int_{\text{Atom }\alpha}\rho_{\alpha}(\vec{r}^{\prime})\efkt{-i\vec{K}\vec{r}^{\prime}}\text{d^{3}}\vec{r}^{\prime}$
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\rho_{\alpha}$
+\end_inset
+
+ Streudichte hängt von Art der Strahlung ab meist kugelsymmetrisch
+\end_layout
+
+\begin_layout Standard
+images/2009-11-05-streugraphen.png
+\end_layout
+
+\begin_layout Standard
+images/2009-11-05-streu-winkel.png
+\end_layout
+
+\begin_layout Standard
+bei höheren K d.
+\begin_inset space \thinspace{}
+\end_inset
+
+h.
+ bei größeren Winkeln nimmt Intensität ab.
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Röntgen: 
+\begin_inset Formula $\rho\sim$
+\end_inset
+
+ Elektronenverteilung, wie 
+\begin_inset Formula $\rho^{2},\, f_{\alpha}\sim Z$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Neutronen: 
+\begin_inset Formula $\rho\sim$
+\end_inset
+
+ Kerne wie 
+\begin_inset Formula $\rho^{3}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection
+Debye-Wellen-Faktor
+\end_layout
+
+\begin_layout Standard
+Temperaturabhängigkeit der Streuintensität
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $\vec{r}\to\vec{r}(t)=\vec{R}+\vec{r}_{\alpha}+\vec{U}(t)$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $U(t)$
+\end_inset
+
+ variiert stochastisch d.
+\begin_inset space \thinspace{}
+\end_inset
+
+h.
+ thermisch in alle Richtungen 
+\begin_inset Formula $<\vec{U}(t)>=0$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Für Struktur mit 1 Atom auf Gitterpunkt 
+\begin_inset Formula $\vec{r}_{\alpha}=0$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Zusätzlich Mittel der Streuamplitude
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $<A_{B}>=\sum_{\text{alle EZ}}\efkt{-i\vec{K}\vec{R}}\Big(f_{\alpha}\underbrace{<\efkt{-i\vec{K}\vec{U}(t)}>}_{T\text{ abhängig}}\Big)$
+\end_inset
+
+ wobei 
+\begin_inset Formula $\vec{K}=\vec{B}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\noun off
+\color none
+\begin_inset Formula $<\efkt{-i\vec{K}\vec{U}(t)}>=1-\underbrace{i<\vec{K}\vec{U}>}_{=0}-\frac{1}{2}<(\vec{U}\vec{K})^{2}>-\ldots$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Wrap figure
+lines 0
+placement l
+overhang 0in
+width "50col%"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename /Users/juliangethmann/Documents/uni-ka/phy/ph5/ex5script09/images/2009-11-05-streugraphen.png
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Formula $<(\vec{K}\vec{U})^{2}>=<\left(\vec{K}\left(\begin{array}{c}
+U_{\parallel K}\\
+U_{\perp K_{1}}\\
+U_{\perp K_{2}}\end{array}\right)\right)^{2}>=<(KU_{\parallel K})^{2}>=K^{2}<U_{\parallel K}^{2}>$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $<(\vec{U})^{2}>=<U_{\parallel}^{2}+U_{\perp K_{1}}^{2}+U_{\perp K_{2}}^{2}>=3<U_{\parallel K}^{2}>\Rightarrow<U_{\parallel K}^{2}>=\frac{1}{3}<U^{2}>$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $<\efkt{-i\vec{K}\vec{U}(t)}>=1-\frac{1}{6}K^{2}<U^{2}>\approx\efkt{-K^{2}\nicefrac{U^{2}}{6}}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Boxed
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Formula $\Rightarrow<A_{b}>\sim\sum_{\text{alle EZ}}\efkt{-i\vec{K}\vec{R}}f_{\alpha}\underbrace{\efkt{-K^{2}\nicefrac{U^{2}}{6}}}_{\text{Debye-Waller-Faktor}}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Methoden der Strukturanalyse
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+renewcommand{
+\backslash
+thesubsubsection}{
+\backslash
+alph{subsubsection}) } 
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection
+Verwendete Strahlungsarten für Beugungsexperimente 
+\begin_inset Formula $\lambda=2a$
+\end_inset
+
+ Atomabstand
+\end_layout
+
+\begin_layout Paragraph
+Röntgenstrahlen
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $E=h\nu=\dfrac{hc}{\lambda}$
+\end_inset
+
+ Streuung an Elektronen, Formfaktor 
+\begin_inset Formula $f\sim Z$
+\end_inset
+
+, also 
+\begin_inset Formula $I\sim Z^{2}$
+\end_inset
+
+, leichte Elemente schwer nachweisbar, benachbarte Elemente schwer zu unterschei
+den, Streuung von Kernen ist vernachlässigbar.
+\end_layout
+
+\begin_layout Standard
+Quellen:
+\end_layout
+
+\begin_layout Enumerate
+Röntgenröhre, Bremsstrahlung, hochmagnetisches Elektronen
+\begin_inset Newline newline
+\end_inset
+
+images/2009-11-05-bremsstrahlung.png
+\end_layout
+
+\begin_layout Enumerate
+Synchrotronstrahlung, Elektronen auf Kreisbahn, z.
+\begin_inset space \thinspace{}
+\end_inset
+
+B.
+\end_layout
+
+\begin_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+ANKA Forschungszentrum/Campus Nord
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+DESY Hamburg
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+BESSY Berling
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+ESRF Grenoble
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+hohe Intensität, gepulste Strahl, kleine Divergenz
+\begin_inset Newline newline
+\end_inset
+
+images/2009-11-05-synchrotron.png
+\end_layout
+
+\begin_layout Paragraph
+Neutronen
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $E=\dfrac{p^{2}}{2m}=\dfrac{h^{2}}{2m\lambda^{2}}$
+\end_inset
+
+ ungeladen, Spin 
+\begin_inset Formula $\frac{1}{2}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Wechselwirkung mit Kernen über starke Wechselwirkung
+\end_layout
+
+\begin_layout Itemize
+Elektronen in der Hülle, die magnetisches Moment tragen geeignet für magnetische
+ Strukturen
+\end_layout
+
+\begin_layout Standard
+Quellen: Forschungsreaktoren:
+\end_layout
+
+\begin_layout Itemize
+Jülich
+\end_layout
+
+\begin_layout Itemize
+München
+\end_layout
+
+\begin_layout Itemize
+Grenoble ILL
+\end_layout
+
+\begin_layout Itemize
+Berlin
+\end_layout
+
+\begin_layout Standard
+Wechselwirkung-Querschnitte klein, d.
+\begin_inset space \thinspace{}
+\end_inset
+
+h.
+ lange Strahlungszeiten notwendig
+\end_layout
+
+\begin_layout Standard
+images/2009-11-05-neutronen.png
+\end_layout
+
+\begin_layout Paragraph
+Elektronen
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $E=\dfrac{h^{2}}{2m\lambda^{2}}$
+\end_inset
+
+ starke Coulomb-Wechselwirkung mit Elektronen und mit Kernen 
+\begin_inset Formula $\Rightarrow$
+\end_inset
+
+ nur geringe Eindringtiefe
+\end_layout
+
+\begin_layout Standard
+Oberflächenphysik Low Energy Electron Diffraction: LEED
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $E\sim100\,\text{eV}$
+\end_inset
+
+ Eindringtiefe von wenigen Atomlagen
+\end_layout
+
+\begin_layout Standard
+TEM: dünne Schichten herstellen 
+\begin_inset Formula $E\sim\text{keV}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Vergleich für 
+\begin_inset Formula $\lambda=1\,\AA$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Röntgen 
+\begin_inset Formula $\sim\phantom{0}10\,\text{keV}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Neutronen 
+\begin_inset Formula $\sim100\,\text{meV}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Elektronen 
+\begin_inset Formula $\sim200\,\text{eV}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection
+Experimentelle Beugungsverfahren
+\end_layout
+
+\begin_layout Paragraph
+Lane-Verfahren: 
+\end_layout
+
+\begin_layout Standard
+kontinuierliches 
+\begin_inset Formula $\lambda$
+\end_inset
+
+, Einkristall, Ewaldkugel hat 
+\begin_inset Quotes gld
+\end_inset
+
+dicke Haut
+\begin_inset Quotes grd
+\end_inset
+
+, viele Reflexe gleichzeitig
+\end_layout
+
+\begin_layout Standard
+images/2009-11-05-lane-verfahren.png
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Anwengung: Ist die Probe ein Einkristall?
+\begin_inset Newline newline
+\end_inset
+
+Orientierung der Symmetrieachsen
+\end_layout
+
+\begin_layout Paragraph
+Drehristall-Verfahren:
+\end_layout
+
+\begin_layout Standard
+monochromatische Strahlung, Kristall wird gedreht, Nacheinander treffen
+ Punkte des reziproken Gitters durch Ewaldkugel
+\end_layout
+
+\begin_layout Standard
+images/2009-11-05-drehkristall-verfahren.png
+\end_layout
+
+\begin_layout Paragraph
+Debye-Scherrer-Verfahren
+\end_layout
+
+\begin_layout Standard
+monochromatische Strahlung, Pulver oder feinkörniger Polykristall
+\end_layout
+
+\begin_layout Standard
+\begin_inset Wrap figure
+lines 0
+placement o
+overhang 0col%
+width "50col%"
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption
+
+\begin_layout Plain Layout
+Schnittgebilde: Kreis
+\end_layout
+
+\end_inset
+
+images/2009-11-05-debye-scherrer-verfahren.png
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Kreis für alle reziproken Gittervektroren mit 
+\begin_inset Formula $|B|<2|k_{0}|$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Vorteil:
+\end_layout
+
+\begin_layout Enumerate
+hohe Genauigkeit 
+\begin_inset Formula $\dfrac{\Delta a}{a}\approx10^{-5}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+feine Einkristallstruktur
+\end_layout
+
+\begin_layout Standard
+Anwendung: Analyse neuer Verbindungen, komplizierte Kristallstruktur (Biomolekül
+e) 
+\begin_inset Formula $10^{3}-10^{4}$
+\end_inset
+
+ Atome pro Einheitszelle
+\end_layout
+
+\begin_layout Subsubsection
+\begin_inset Quotes gld
+\end_inset
+
+direkte
+\begin_inset Quotes grd
+\end_inset
+
+ Abbildung von Strukturen mit atomarer Auflösung
+\end_layout
+
+\begin_layout Paragraph
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+uwave{Elektronenmikroskop} 
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+de-Broglie-Wellenlänge von Elektronen mit 
+\begin_inset Formula $10\,\text{keV}:\;\lambda=0,1\,\AA$
+\end_inset
+
+ üblich 
+\begin_inset Formula $100-400\,\text{keV}$
+\end_inset
+
+ prinzipiell atomare Auflösung möglich 
+\end_layout
+
+\begin_layout Standard
+Probleme: Linsenfehler 
+\begin_inset Formula $\to$
+\end_inset
+
+ jetzt gelöst
+\end_layout
+
+\begin_layout Paragraph
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+uwave{Rastertunnel-, Rasterkraftmikroskop} 
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+images/2009-11-05-rastermikroskope.png
+\end_layout
+
+\end_body
+\end_document

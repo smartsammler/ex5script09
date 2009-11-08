@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   id="svg8258"
+   version="1.1"
+   inkscape:version="0.47pre2 r22153"
+   sodipodi:docname="2009-11-05-bremsstrahlung.svg">
+  <defs
+     id="defs8260">
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lstart"
+       style="overflow:visible">
+      <path
+         id="path3593"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none"
+         transform="scale(0.8) translate(12.5,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lend"
+       style="overflow:visible;">
+      <path
+         id="path3596"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none;"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective8266" />
+    <inkscape:perspective
+       id="perspective9372"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="22.321048"
+     inkscape:cy="972.90907"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="752"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata8263">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow1Lstart);marker-end:url(#Arrow1Lend)"
+       d="m 72.857143,60.93361 0,167.14286 223.571427,0"
+       id="path8268"
+       inkscape:export-filename="/Users/juliangethmann/Documents/uni-ka/phy/ph5/ex5script09/images/2009-11-05-bremsstrahlung.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Helvetica"
+       x="57.142857"
+       y="75.219322"
+       id="text9340"
+       inkscape:export-filename="/Users/juliangethmann/Documents/uni-ka/phy/ph5/ex5script09/images/2009-11-05-bremsstrahlung.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan9342"
+         x="57.142857"
+         y="75.219322">I</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 112.14286,209.50504 c 0,0 60,-197.857144 142.85714,-51.42857"
+       id="path9344"
+       inkscape:export-filename="/Users/juliangethmann/Documents/uni-ka/phy/ph5/ex5script09/images/2009-11-05-bremsstrahlung.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 113.61476,205.93361 7.85715,-79.28571 0.53571,56.07142"
+       id="path9346"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/Users/juliangethmann/Documents/uni-ka/phy/ph5/ex5script09/images/2009-11-05-bremsstrahlung.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 153.57143,127.89028 13.57143,-50.714284 1.07143,36.428564"
+       id="path9348"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/Users/juliangethmann/Documents/uni-ka/phy/ph5/ex5script09/images/2009-11-05-bremsstrahlung.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g9358"
+       transform="translate(-7.5761441,2.0203051)"
+       inkscape:export-filename="/Users/juliangethmann/Documents/uni-ka/phy/ph5/ex5script09/images/2009-11-05-bremsstrahlung.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <text
+         id="text9350"
+         y="120.21932"
+         x="121.96429"
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Helvetica"
+         xml:space="preserve"><tspan
+           y="120.21932"
+           x="121.96429"
+           id="tspan9352"
+           sodipodi:role="line">u</tspan></text>
+      <text
+         id="text9354"
+         y="123.25503"
+         x="133.39285"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Helvetica"
+         xml:space="preserve"><tspan
+           y="123.25503"
+           x="133.39285"
+           id="tspan9356"
+           sodipodi:role="line">α</tspan></text>
+    </g>
+    <g
+       transform="translate(47.644905,-38.359556)"
+       id="g9358-5"
+       inkscape:export-filename="/Users/juliangethmann/Documents/uni-ka/phy/ph5/ex5script09/images/2009-11-05-bremsstrahlung.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <text
+         id="text9350-3"
+         y="120.21932"
+         x="121.96429"
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Helvetica"
+         xml:space="preserve"><tspan
+           y="120.21932"
+           x="121.96429"
+           id="tspan9352-5"
+           sodipodi:role="line">u</tspan></text>
+      <text
+         id="text9354-4"
+         y="123.25503"
+         x="133.39285"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Helvetica"
+         xml:space="preserve"><tspan
+           y="123.25503"
+           x="133.39285"
+           id="tspan9356-3"
+           sodipodi:role="line">β</tspan></text>
+    </g>
+  </g>
+</svg>
