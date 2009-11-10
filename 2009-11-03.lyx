@@ -1,0 +1,903 @@
+#LyX 1.6.4.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 345
+\begin_document
+\begin_header
+\textclass scrartcl
+\begin_preamble
+\usepackage{txfonts} % für \eqqcolon
+\usepackage{calc} % für \setlength{\jot}{6pt+2mm}
+\usepackage{dcolumn} % Ausrichtung am Komma in Tabellen und Arrays: D{.}{,}{nachkommastellen}
+
+\clubpenalty = 10000	 % Schusterjungen- und
+\widowpenalty = 10000	 % Hurenkinderregelung
+\displaywidowpenalty = 10000 % und auch für Formeln
+
+% Punkt + Komma Abstände bei Tausendern/Dezimalzahlen ans dt. anpassen
+\mathcode`,="013B
+\mathcode`.="613A
+%\usepackage{pxfonts}
+  \usepackage{euler} % workaround für Mathe-Symbole (u.a. Integrale)
+
+\usepackage{fancyhdr}
+\chead{Tut 10 Mario Prausa}
+\rhead{Julian Gethmann 1432231}
+\pagestyle{fancy}
+\end_preamble
+\options 10pt
+\use_default_options false
+\language ngerman
+\inputencoding auto
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_default_family default
+\font_sc true
+\font_osf true
+\font_sf_scale 100
+\font_tt_scale 100
+
+\graphics default
+\float_placement H
+\paperfontsize default
+\spacing onehalf
+\use_hyperref true
+\pdf_title "Theo C - Übungsblatt"
+\pdf_author "Julian Gethmann"
+\pdf_subject "Elektrodynamik"
+\pdf_bookmarks true
+\pdf_bookmarksnumbered true
+\pdf_bookmarksopen false
+\pdf_bookmarksopenlevel 1
+\pdf_breaklinks true
+\pdf_pdfborder true
+\pdf_colorlinks false
+\pdf_backref section
+\pdf_pdfusetitle true
+\papersize a4paper
+\use_geometry true
+\use_amsmath 1
+\use_esint 1
+\cite_engine basic
+\use_bibtopic false
+\paperorientation portrait
+\leftmargin 2.5cm
+\topmargin 3.5cm
+\rightmargin 2.5cm
+\bottommargin 3.5cm
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation skip
+\defskip smallskip
+\quotes_language german
+\papercolumns 1
+\papersides 2
+\paperpagestyle empty
+\tracking_changes false
+\output_changes false
+\author "" 
+\author "" 
+\end_header
+
+\begin_body
+
+\begin_layout Paragraph
+
+\lang english
+Theorem: 
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+Jedem Vektor 
+\begin_inset Formula $\vec{B}$
+\end_inset
+
+ des reziproken gitters entspricht eine Schar (Menge) von Kristallebeenen
+ im realen Gitter, die 
+\begin_inset Formula $\perp$
+\end_inset
+
+ zu 
+\begin_inset Formula $\vec{B}$
+\end_inset
+
+ ist mit Abstand 
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+\begin_inset Formula $d=\dfrac{2\pi}{\left|\vec{B}\right|}$
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Paragraph
+
+\lang english
+Brioullin-Zone
+\begin_inset CommandInset label
+LatexCommand label
+name "par:Brioullin-Zone"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+Elementarzelle des reziproken Gitters
+\end_layout
+
+\begin_layout Subparagraph
+
+\lang english
+Definiton:
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+Die Wigner- Seitz- Zelle des reziproken Gitters heißt 1.
+ Brioullin-Zone
+\begin_inset Index
+status open
+
+\begin_layout Plain Layout
+
+\lang english
+Brioullin-Zone
+\end_layout
+
+\end_inset
+
+ (BZ) 
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+Das reziproke Gitter kann lückenlos mit 1.
+ BZ aufgefüllt werden
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+nächste Gitterpunkte, Mittelsenkrechte
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+
+\lang english
+\begin_inset Graphics
+	filename /Users/juliangethmann/Library/Mail Downloads/wigner_seitz.gif
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+images/2009-11-03-wigner_seitz.gif
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+Weitere BZ: Mittelsemkrechten- Ebene auf Verbindungslinien weiter entfernter
+ Gitterpunkte
+\end_layout
+
+\begin_layout Paragraph
+
+\lang english
+Theorem:
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+\begin_inset Formula $n$
+\end_inset
+
+.
+ BZ: alle BZ haben das gleiche Volumen
+\end_layout
+
+\begin_layout Paragraph
+
+\lang english
+Bedeutung: 
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+Darstellung der Dispersionsrelation 
+\begin_inset Formula $E\left(\vec{k}\right)$
+\end_inset
+
+ im reziproken Raum (Phononen, Elektronen)
+\end_layout
+
+\begin_layout Paragraph
+
+\lang english
+Allgemeines zur Beugung:
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+Beugung an periodischen Strukturen
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+(Abb.: 2009.11.03-2-beugung)
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+Analogie zur Optik, Beugung an Gitter
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+\begin_inset Formula $\lambda\approx\text{Gitterkonstante}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+Röntgenlicht, Elektronen, Neutronen
+\end_layout
+
+\begin_layout Subparagraph
+
+\lang english
+Voraussetzungen:
+\end_layout
+
+\begin_layout Enumerate
+
+\lang english
+Einfachstreuung 
+\end_layout
+
+\begin_layout Enumerate
+
+\lang english
+Fraunhofer-Näherung: einlaufende und gebeugte Welle werden als ebene Wellen
+ angenähert
+\end_layout
+
+\begin_layout Enumerate
+
+\lang english
+In diesem Kapitel: nur elastische Streuung
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+momentane 
+\begin_inset Formula $A$
+\end_inset
+
+ der am Ort 
+\begin_inset Formula $P$
+\end_inset
+
+ einlaufenden Welle:
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+vorher 
+\begin_inset Formula $\vec{k}_{0}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+\begin_inset Formula \begin{eqnarray}
+A^{P} & = & A_{0}e^{i\left(\vec{k}_{0}\left(\vec{r}-\vec{R}_{Q}\right)-\omega_{0}t^{\prime}\right)}\label{eq:beugungswelle}\end{eqnarray}
+
+\end_inset
+
+ 
+\begin_inset Formula $\;(*)$
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+\begin_inset Formula $\vec{R}_{Q}$
+\end_inset
+
+ Ort der Quelle 
+\begin_inset Formula $\vec{r}$
+\end_inset
+
+ Ort 
+\begin_inset Formula $P$
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+Amplitude und Phasenlage werden durch Streuung verändert: 
+\begin_inset Formula $\rho\left(\vec{r}\right)$
+\end_inset
+
+ komplex 
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+Beispiel für Röntgen 
+\begin_inset Formula $\rho\left(\vec{r}\right)\sim$
+\end_inset
+
+ Elektronendichte
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+Amplitude am Ort 
+\begin_inset Formula $B$
+\end_inset
+
+ des Detektors 
+\begin_inset Formula $\vec{R}_{B}$
+\end_inset
+
+, nachher 
+\begin_inset Formula $\vec{k}$
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+\begin_inset Formula $A^{B}=cA^{P}\rho\left(\vec{r}\right)\dfrac{e^{i\left[\vec{k}\left(\vec{R}_{B}-\vec{r}\right)-\omega t_{0}^{\prime\prime}\right]}}{\underbrace{\left|\vec{R}_{B}-\vec{r}\right|}_{\approx\left|\vec{R}_{B}\right|\text{ weil }\left|R_{B}\right|\gg\left|\vec{r}\right|}}$
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+\begin_inset Formula $\approx\underbrace{c\dfrac{A_{0}}{\left|R_{B}\right|}e^{i\left(-\vec{k}_{0}\vec{R}_{Q}+\vec{k}\vec{R}_{B}\right)}}_{\text{konstant für feste Anordnung}}\cdot\underbrace{\rho\left(\vec{r}\right)e^{i\vec{r}\left(\vec{k}_{0}-\vec{k}\right)}}_{\text{sepz. für P }\Rightarrow\text{Summation erforderlich über Probevolumen}}\cdot\underbrace{e^{i\omega_{0}\left(t^{\prime}+t^{\prime\prime}\right)}}_{\text{es wird über Zeit gemittelt}}$
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+\begin_inset Formula $A^{B}\sim c\intop_{\text{Volumen der Probe}}\rho\left(\vec{r}\right)e^{i\vec{r}\left(\vec{k}-\vec{k}_{0}\right)}\text{d}^{3}\vec{r}$
+\end_inset
+
+ Fouriertransformation 
+\begin_inset Formula $\rho\mbox{\left(\vec{r}\right) }$
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+\begin_inset Formula $\vec{k}-\vec{k}_{0}=\vec{K}$
+\end_inset
+
+ Streuvektor
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+Phasenproblem:
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+i.
+\begin_inset space \thinspace{}
+\end_inset
+
+A.
+ nur 
+\begin_inset Formula $\left|A_{B}\right|^{2}=I$
+\end_inset
+
+ Intensität meßbar 
+\begin_inset Formula $\Rightarrow$
+\end_inset
+
+ Phaseninformation fehlt, Umkehrung der FT nicht möglich
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+Ausweg: 
+\end_layout
+
+\begin_layout Enumerate
+
+\lang english
+Annahme eines bestimmten 
+\begin_inset Formula $\rho\left(\vec{r}\right)$
+\end_inset
+
+, Berechnung von 
+\begin_inset Formula $I$
+\end_inset
+
+, Vergleich
+\end_layout
+
+\begin_layout Enumerate
+
+\lang english
+Mehrfachstreuung berücksichtigen 
+\begin_inset Formula $\rightarrow$
+\end_inset
+
+ dynamische Theorie 
+\end_layout
+
+\begin_layout Paragraph
+
+\lang english
+Beugung an periodischen Strukturen:
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+\begin_inset Formula $\vec{r}$
+\end_inset
+
+ Vektor zum Punkt 
+\begin_inset Formula $P$
+\end_inset
+
+ 
+\begin_inset Formula $\vec{R}$
+\end_inset
+
+ Gittervektor 
+\begin_inset Formula $\vec{r}_{\alpha}$
+\end_inset
+
+ zum Mittelpunkt des Atoms 
+\begin_inset Formula $\alpha$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+\begin_inset Formula $\vec{r}^{\prime}$
+\end_inset
+
+ zum Punkt 
+\begin_inset Formula $P$
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+\begin_inset Formula $\vec{r}=\vec{R}+\vec{r}_{\alpha}+\vec{r}^{\prime}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+\begin_inset Formula $A^{B}=\intop_{V}\rho\left(\vec{r}\right)e^{-i\left(\vec{R}+\vec{r}_{\alpha}+\vec{r}^{\prime}\right)\vec{K}}\text{d}^{3}\vec{r}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+\begin_inset Formula $\underbrace{\sum_{\text{alle EZ, alle}\vec{R}}e^{-i\vec{K}\vec{R}}}_{\text{Gitterfaktor}}\cdot\underbrace{\sum_{\text{alle Atome }\alpha}e^{i\vec{K}\vec{r}_{\alpha}}\cdot\underbrace{\left[\intop_{\text{Volumen Atome }\alpha}\rho_{\alpha}\left(\vec{r}^{\prime}\right)e^{-i\vec{K}\vec{r}^{\prime}}\text{d}^{3}\vec{r}^{\prime}\right]}_{f_{\alpha}\text{ Atomstreufaktor}}}_{\text{Strukturfaktor }}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Paragraph
+
+\lang english
+Theorem:
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+damit Reflexe beobachtet werden können, müssen sowohl Gitter- als Strukturfaktor
+ 
+\begin_inset Formula $\neq0$
+\end_inset
+
+ sein 
+\end_layout
+
+\begin_layout Paragraph
+
+\lang english
+1.
+ Gitterfaktor
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+\begin_inset Formula $e^{-i\vec{K}\vec{R}}$
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+\begin_inset Formula $\vec{K}\cdot\vec{R}=2\pi M\; M\in\mathbb{Z}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+Beispiel:
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+1.
+\begin_inset space \thinspace{}
+\end_inset
+
+Dim 
+\begin_inset Formula $\vec{R}=n_{1}\vec{a}_{1}$
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+\begin_inset Formula $\sum_{n_{1}=0}^{M-1}e^{-i\vec{K}n_{1}\vec{a}_{1}}=\dfrac{1-e^{iM\vec{K}\vec{a}_{1}}}{1-e^{i\vec{K}\vec{a}_{1}}}$
+\end_inset
+
+ geometrische Summe
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+\begin_inset Formula $I\sim\left|\right|^{2}\sim\dfrac{\sin^{2}\dfrac{1}{2}M\vec{K}\vec{a}_{1}}{\sin^{2}\dfrac{1}{2}\vec{K}\vec{a}_{1}}$
+\end_inset
+
+ ist maximal für 
+\begin_inset Formula $\vec{K}\vec{a}_{1}=2\pi h$
+\end_inset
+
+ 
+\begin_inset Formula $h\in\mathbb{Z}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Paragraph
+
+\lang english
+Laue- Gleichung
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+\begin_inset Formula $\vec{a}_{1}\vec{K}=2\pi h$
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+\begin_inset Formula $\vec{a}_{2}\vec{K}=2\pi k$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+\begin_inset Formula $\vec{a}_{3}\vec{K}=2\pi l$
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+sind genau dann erfüllt, wenn 
+\begin_inset Formula $\vec{K}=\vec{B}$
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Paragraph
+
+\lang english
+Ewald- Konstruktion
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+elastische Beugung 
+\begin_inset Formula $\Rightarrow\left|\vec{k}_{0}\right|=\left|\vec{k}\right|=\dfrac{2\pi}{\lambda}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+
+\lang english
+\begin_inset Formula $\vec{k}_{0}$
+\end_inset
+
+ und 
+\begin_inset Formula $\vec{k}$
+\end_inset
+
+ in Kugel eintragen
+\end_layout
+
+\begin_layout Enumerate
+
+\lang english
+\begin_inset Formula $\vec{K}=\vec{k}-\vec{k}_{0}$
+\end_inset
+
+ eintragen
+\end_layout
+
+\begin_layout Enumerate
+
+\lang english
+ist 
+\begin_inset Formula $\vec{K}$
+\end_inset
+
+ ein reziproker Gittervektor, d.
+\begin_inset space \thinspace{}
+\end_inset
+
+h.
+ liegt ein Punkt des reziproken Gitters gerade auf Oberfläche der Kugel,
+ beim Ende von 
+\begin_inset Formula $\vec{k}$
+\end_inset
+
+, gibt es einen Reflex
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+i.
+\begin_inset space \thinspace{}
+\end_inset
+
+A.
+ kein Reflex
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+Möglichkeiten, Reflexe zu erhalten:
+\end_layout
+
+\begin_layout Enumerate
+
+\lang english
+Variation des Radius 
+\begin_inset Formula $\lambda$
+\end_inset
+
+ nicht fix, sonder Bereich 
+\begin_inset Formula $\lambda_{1}<\lambda<\lambda_{2}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+
+\lang english
+Drehung des Kristalls
+\end_layout
+
+\begin_layout Enumerate
+
+\lang english
+Pulverprobe
+\end_layout
+
+\begin_layout Paragraph
+
+\lang english
+Braggsche Beugungsbedingung
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+\begin_inset Formula $d=\dfrac{2\pi}{\left|\vec{B}\right|}$
+\end_inset
+
+ Netzebenenabstand
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+\begin_inset Formula $\sin\theta=\dfrac{\dfrac{1}{2}\left|\vec{K}\right|}{\dfrac{2\pi}{\lambda}}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+
+\lang english
+\begin_inset Graphics
+	filename /Users/juliangethmann/Library/Mail Downloads/Bragg_diffraction.png
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+images/2009-11-03-bragg_diffraction.png
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+Streubedingung: 
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+\begin_inset Formula $\vec{K}=\vec{B}$
+\end_inset
+
+ 
+\begin_inset Formula $\left|\vec{K}\right|=\left|\vec{B}\right|$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+\begin_inset Formula $\left|\vec{B}\right|=\dfrac{2\pi}{d}=\left|\vec{K}\right|=\dfrac{4\pi}{\lambda}\sin\theta\Rightarrow\lambda=2d\sin\theta$
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+Annahme von Bragg dass 
+\begin_inset Formula $hkl$
+\end_inset
+
+ teilerfremd i.
+\begin_inset space \thinspace{}
+\end_inset
+
+A.
+ 
+\begin_inset Formula $\left|\vec{B}\right|=n\left|\vec{B}'\right|$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+\begin_inset Formula \[
+n\lambda=2d\sin\theta\]
+
+\end_inset
+
+
+\begin_inset CommandInset index_print
+LatexCommand printindex
+
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document
