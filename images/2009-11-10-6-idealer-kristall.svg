@@ -1,0 +1,1126 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   id="svg7402"
+   version="1.1"
+   inkscape:version="0.47pre2 r22153"
+   sodipodi:docname="2009-11-10-6-idealer-kristall.svg">
+  <defs
+     id="defs7404">
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Mend"
+       style="overflow:visible;">
+      <path
+         id="path4966"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none;"
+         transform="scale(0.4) rotate(180) translate(10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Send"
+       style="overflow:visible;">
+      <path
+         id="path4972"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none;"
+         transform="scale(0.2) rotate(180) translate(6,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lend"
+       style="overflow:visible;">
+      <path
+         id="path4960"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none;"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective7410" />
+    <inkscape:perspective
+       id="perspective8849"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective8967"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-3"
+       style="overflow:visible">
+      <path
+         id="path4960-9"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker8973"
+       style="overflow:visible">
+      <path
+         id="path8975"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker8977"
+       style="overflow:visible">
+      <path
+         id="path8979"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker8981"
+       style="overflow:visible">
+      <path
+         id="path8983"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <inkscape:perspective
+       id="perspective9468"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98240212"
+     inkscape:cx="372.04724"
+     inkscape:cy="982.45765"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="752"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata7407">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g9026"
+       inkscape:export-filename="/Users/juliangethmann/Documents/uni-ka/phy/ph5/ex5script09/images/2009-11-10-6-idealer-kristall.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         transform="matrix(0.56900473,0,0,0.56830447,17.994053,10.409121)"
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/juliangethmann/Documents/uni-ka/phy/ph5/ex5script09/images/2009-11-10-6-idealer-kristall.png"
+         inkscape:tile-y0="48.790755"
+         inkscape:tile-x0="67.142855"
+         inkscape:tile-h="7.8571429"
+         inkscape:tile-w="7.8571429"
+         inkscape:tile-cy="52.719326"
+         inkscape:tile-cx="71.071426"
+         d="m 74.999998,52.719326 a 3.9285715,3.9285715 0 1 1 -7.857143,0 3.9285715,3.9285715 0 1 1 7.857143,0 z"
+         sodipodi:ry="3.9285715"
+         sodipodi:rx="3.9285715"
+         sodipodi:cy="52.719326"
+         sodipodi:cx="71.071426"
+         id="path7412"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.75853705;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         sodipodi:type="arc" />
+      <use
+         height="1052.3622"
+         width="744.09448"
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/juliangethmann/Documents/uni-ka/phy/ph5/ex5script09/images/2009-11-10-6-idealer-kristall.png"
+         id="use7967"
+         xlink:href="#path7412"
+         inkscape:tiled-clone-of="#path7412"
+         y="0"
+         x="0" />
+      <use
+         height="1052.3622"
+         width="744.09448"
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/juliangethmann/Documents/uni-ka/phy/ph5/ex5script09/images/2009-11-10-6-idealer-kristall.png"
+         id="use7969"
+         transform="translate(0,22.326247)"
+         xlink:href="#path7412"
+         inkscape:tiled-clone-of="#path7412"
+         y="0"
+         x="0" />
+      <use
+         height="1052.3622"
+         width="744.09448"
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/juliangethmann/Documents/uni-ka/phy/ph5/ex5script09/images/2009-11-10-6-idealer-kristall.png"
+         id="use7971"
+         transform="translate(0,44.652494)"
+         xlink:href="#path7412"
+         inkscape:tiled-clone-of="#path7412"
+         y="0"
+         x="0" />
+      <use
+         height="1052.3622"
+         width="744.09448"
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/juliangethmann/Documents/uni-ka/phy/ph5/ex5script09/images/2009-11-10-6-idealer-kristall.png"
+         id="use7975"
+         transform="translate(0,89.304989)"
+         xlink:href="#path7412"
+         inkscape:tiled-clone-of="#path7412"
+         y="0"
+         x="0" />
+      <use
+         height="1052.3622"
+         width="744.09448"
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/juliangethmann/Documents/uni-ka/phy/ph5/ex5script09/images/2009-11-10-6-idealer-kristall.png"
+         id="use7977"
+         transform="translate(0,111.63123)"
+         xlink:href="#path7412"
+         inkscape:tiled-clone-of="#path7412"
+         y="0"
+         x="0" />
+      <use
+         height="1052.3622"
+         width="744.09448"
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/juliangethmann/Documents/uni-ka/phy/ph5/ex5script09/images/2009-11-10-6-idealer-kristall.png"
+         id="use7979"
+         transform="translate(22.353758,0)"
+         xlink:href="#path7412"
+         inkscape:tiled-clone-of="#path7412"
+         y="0"
+         x="0" />
+      <use
+         height="1052.3622"
+         width="744.09448"
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/juliangethmann/Documents/uni-ka/phy/ph5/ex5script09/images/2009-11-10-6-idealer-kristall.png"
+         id="use7989"
+         transform="translate(22.353758,111.63123)"
+         xlink:href="#path7412"
+         inkscape:tiled-clone-of="#path7412"
+         y="0"
+         x="0" />
+      <use
+         height="1052.3622"
+         width="744.09448"
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/juliangethmann/Documents/uni-ka/phy/ph5/ex5script09/images/2009-11-10-6-idealer-kristall.png"
+         id="use7991"
+         transform="translate(44.707515,0)"
+         xlink:href="#path7412"
+         inkscape:tiled-clone-of="#path7412"
+         y="0"
+         x="0" />
+      <use
+         height="1052.3622"
+         width="744.09448"
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/juliangethmann/Documents/uni-ka/phy/ph5/ex5script09/images/2009-11-10-6-idealer-kristall.png"
+         id="use8001"
+         transform="translate(44.707515,111.63123)"
+         xlink:href="#path7412"
+         inkscape:tiled-clone-of="#path7412"
+         y="0"
+         x="0" />
+      <use
+         height="1052.3622"
+         width="744.09448"
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/juliangethmann/Documents/uni-ka/phy/ph5/ex5script09/images/2009-11-10-6-idealer-kristall.png"
+         id="use8003"
+         transform="translate(67.06127,0)"
+         xlink:href="#path7412"
+         inkscape:tiled-clone-of="#path7412"
+         y="0"
+         x="0" />
+      <use
+         height="1052.3622"
+         width="744.09448"
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/juliangethmann/Documents/uni-ka/phy/ph5/ex5script09/images/2009-11-10-6-idealer-kristall.png"
+         id="use8013"
+         transform="translate(67.06127,111.63123)"
+         xlink:href="#path7412"
+         inkscape:tiled-clone-of="#path7412"
+         y="0"
+         x="0" />
+      <use
+         height="1052.3622"
+         width="744.09448"
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/juliangethmann/Documents/uni-ka/phy/ph5/ex5script09/images/2009-11-10-6-idealer-kristall.png"
+         id="use8015"
+         transform="translate(89.415031,0)"
+         xlink:href="#path7412"
+         inkscape:tiled-clone-of="#path7412"
+         y="0"
+         x="0" />
+      <use
+         height="1052.3622"
+         width="744.09448"
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/juliangethmann/Documents/uni-ka/phy/ph5/ex5script09/images/2009-11-10-6-idealer-kristall.png"
+         id="use8025"
+         transform="translate(89.415031,111.63123)"
+         xlink:href="#path7412"
+         inkscape:tiled-clone-of="#path7412"
+         y="0"
+         x="0" />
+      <use
+         height="1052.3622"
+         width="744.09448"
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/juliangethmann/Documents/uni-ka/phy/ph5/ex5script09/images/2009-11-10-6-idealer-kristall.png"
+         id="use8027"
+         transform="translate(111.76879,0)"
+         xlink:href="#path7412"
+         inkscape:tiled-clone-of="#path7412"
+         y="0"
+         x="0" />
+      <use
+         height="1052.3622"
+         width="744.09448"
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/juliangethmann/Documents/uni-ka/phy/ph5/ex5script09/images/2009-11-10-6-idealer-kristall.png"
+         id="use8037"
+         transform="translate(111.76879,111.63123)"
+         xlink:href="#path7412"
+         inkscape:tiled-clone-of="#path7412"
+         y="0"
+         x="0" />
+      <use
+         height="1052.3622"
+         width="744.09448"
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/juliangethmann/Documents/uni-ka/phy/ph5/ex5script09/images/2009-11-10-6-idealer-kristall.png"
+         id="use8039"
+         transform="translate(134.12255,0)"
+         xlink:href="#path7412"
+         inkscape:tiled-clone-of="#path7412"
+         y="0"
+         x="0" />
+      <use
+         height="1052.3622"
+         width="744.09448"
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/juliangethmann/Documents/uni-ka/phy/ph5/ex5script09/images/2009-11-10-6-idealer-kristall.png"
+         id="use8049"
+         transform="translate(134.12255,111.63123)"
+         xlink:href="#path7412"
+         inkscape:tiled-clone-of="#path7412"
+         y="0"
+         x="0" />
+      <use
+         height="1052.3622"
+         width="744.09448"
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/juliangethmann/Documents/uni-ka/phy/ph5/ex5script09/images/2009-11-10-6-idealer-kristall.png"
+         id="use8051"
+         transform="translate(156.4763,0)"
+         xlink:href="#path7412"
+         inkscape:tiled-clone-of="#path7412"
+         y="0"
+         x="0" />
+      <use
+         height="1052.3622"
+         width="744.09448"
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/juliangethmann/Documents/uni-ka/phy/ph5/ex5script09/images/2009-11-10-6-idealer-kristall.png"
+         id="use8061"
+         transform="translate(156.4763,111.63123)"
+         xlink:href="#path7412"
+         inkscape:tiled-clone-of="#path7412"
+         y="0"
+         x="0" />
+      <use
+         height="1052.3622"
+         width="744.09448"
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/juliangethmann/Documents/uni-ka/phy/ph5/ex5script09/images/2009-11-10-6-idealer-kristall.png"
+         id="use8063"
+         transform="translate(178.83006,0)"
+         xlink:href="#path7412"
+         inkscape:tiled-clone-of="#path7412"
+         y="0"
+         x="0" />
+      <use
+         height="1052.3622"
+         width="744.09448"
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/juliangethmann/Documents/uni-ka/phy/ph5/ex5script09/images/2009-11-10-6-idealer-kristall.png"
+         id="use8073"
+         transform="translate(178.83006,111.63123)"
+         xlink:href="#path7412"
+         inkscape:tiled-clone-of="#path7412"
+         y="0"
+         x="0" />
+      <use
+         height="1052.3622"
+         width="744.09448"
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/juliangethmann/Documents/uni-ka/phy/ph5/ex5script09/images/2009-11-10-6-idealer-kristall.png"
+         id="use8075"
+         transform="translate(201.18382,0)"
+         xlink:href="#path7412"
+         inkscape:tiled-clone-of="#path7412"
+         y="0"
+         x="0" />
+      <use
+         height="1052.3622"
+         width="744.09448"
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/juliangethmann/Documents/uni-ka/phy/ph5/ex5script09/images/2009-11-10-6-idealer-kristall.png"
+         id="use8077"
+         transform="translate(201.18382,22.326247)"
+         xlink:href="#path7412"
+         inkscape:tiled-clone-of="#path7412"
+         y="0"
+         x="0" />
+      <use
+         height="1052.3622"
+         width="744.09448"
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/juliangethmann/Documents/uni-ka/phy/ph5/ex5script09/images/2009-11-10-6-idealer-kristall.png"
+         id="use8079"
+         transform="translate(201.18382,44.652494)"
+         xlink:href="#path7412"
+         inkscape:tiled-clone-of="#path7412"
+         y="0"
+         x="0" />
+      <use
+         height="1052.3622"
+         width="744.09448"
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/juliangethmann/Documents/uni-ka/phy/ph5/ex5script09/images/2009-11-10-6-idealer-kristall.png"
+         id="use8081"
+         transform="translate(201.18382,66.978739)"
+         xlink:href="#path7412"
+         inkscape:tiled-clone-of="#path7412"
+         y="0"
+         x="0" />
+      <use
+         height="1052.3622"
+         width="744.09448"
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/juliangethmann/Documents/uni-ka/phy/ph5/ex5script09/images/2009-11-10-6-idealer-kristall.png"
+         id="use8083"
+         transform="translate(201.18382,89.304989)"
+         xlink:href="#path7412"
+         inkscape:tiled-clone-of="#path7412"
+         y="0"
+         x="0" />
+      <use
+         height="1052.3622"
+         width="744.09448"
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/juliangethmann/Documents/uni-ka/phy/ph5/ex5script09/images/2009-11-10-6-idealer-kristall.png"
+         id="use8085"
+         transform="translate(201.18382,111.63123)"
+         xlink:href="#path7412"
+         inkscape:tiled-clone-of="#path7412"
+         y="0"
+         x="0" />
+      <text
+         transform="scale(1.0006159,0.99938447)"
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/juliangethmann/Documents/uni-ka/phy/ph5/ex5script09/images/2009-11-10-6-idealer-kristall.png"
+         id="text8087"
+         y="91.776604"
+         x="162.58369"
+         style="font-size:11.37308979px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Helvetica"
+         xml:space="preserve"><tspan
+           y="91.776604"
+           x="162.58369"
+           id="tspan8089"
+           sodipodi:role="line">idealer Kristall</tspan><tspan
+           id="tspan8091"
+           y="105.99297"
+           x="162.58369"
+           sodipodi:role="line">M=M'</tspan></text>
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/juliangethmann/Documents/uni-ka/phy/ph5/ex5script09/images/2009-11-10-6-idealer-kristall.png"
+         id="path8093"
+         d="m 157.48149,98.945701 7.31578,0"
+         style="fill:none;stroke:#000000;stroke-width:1.50000012;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/juliangethmann/Documents/uni-ka/phy/ph5/ex5script09/images/2009-11-10-6-idealer-kristall.png"
+         id="path8095"
+         d="m 44.005698,155.85734 0,-49.11775"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/juliangethmann/Documents/uni-ka/phy/ph5/ex5script09/images/2009-11-10-6-idealer-kristall.png"
+         id="path8283"
+         d="m 57.417952,26.365103 58.526198,0"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/juliangethmann/Documents/uni-ka/phy/ph5/ex5script09/images/2009-11-10-6-idealer-kristall.png"
+         id="path8469"
+         d="m 271.20116,59.245576 0,56.018584"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/juliangethmann/Documents/uni-ka/phy/ph5/ex5script09/images/2009-11-10-6-idealer-kristall.png"
+         id="path8655"
+         d="m 256.16318,164.78784 -64.21625,0"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/juliangethmann/Documents/uni-ka/phy/ph5/ex5script09/images/2009-11-10-6-idealer-kristall.png"
+         inkscape:tile-y0="48.790755"
+         inkscape:tile-x0="67.142855"
+         inkscape:tile-h="7.8571429"
+         inkscape:tile-w="7.8571429"
+         inkscape:tile-cy="52.719326"
+         inkscape:tile-cx="71.071426"
+         d="m 74.999998,52.719326 a 3.9285715,3.9285715 0 1 1 -7.857143,0 3.9285715,3.9285715 0 1 1 7.857143,0 z"
+         sodipodi:ry="3.9285715"
+         sodipodi:rx="3.9285715"
+         sodipodi:cy="52.719326"
+         sodipodi:cx="71.071426"
+         id="path7412-2"
+         style="fill:none;stroke:#000000;stroke-width:1.75853705;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         sodipodi:type="arc"
+         transform="matrix(0.56900473,0,0,0.56830447,17.994053,77.38786)" />
+      <text
+         transform="scale(1.0006159,0.99938447)"
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/juliangethmann/Documents/uni-ka/phy/ph5/ex5script09/images/2009-11-10-6-idealer-kristall.png"
+         id="text8863"
+         y="108.02388"
+         x="64.693886"
+         style="font-size:11.37308979px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Helvetica"
+         xml:space="preserve"><tspan
+           y="108.02388"
+           x="64.693886"
+           id="tspan8865"
+           sodipodi:role="line">M'</tspan></text>
+      <text
+         transform="scale(1.0006159,0.99938447)"
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/Users/juliangethmann/Documents/uni-ka/phy/ph5/ex5script09/images/2009-11-10-6-idealer-kristall.png"
+         id="text8867"
+         y="87.308601"
+         x="44.384792"
+         style="font-size:11.37308979px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Helvetica"
+         xml:space="preserve"><tspan
+           y="87.308601"
+           x="44.384792"
+           id="tspan8869"
+           sodipodi:role="line">M</tspan></text>
+    </g>
+    <path
+       sodipodi:type="arc"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.75853705;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path7412-9"
+       sodipodi:cx="71.071426"
+       sodipodi:cy="52.719326"
+       sodipodi:rx="3.9285715"
+       sodipodi:ry="3.9285715"
+       d="m 74.999998,52.719326 a 3.9285715,3.9285715 0 1 1 -7.857143,0 3.9285715,3.9285715 0 1 1 7.857143,0 z"
+       inkscape:tile-cx="71.071426"
+       inkscape:tile-cy="52.719326"
+       inkscape:tile-w="7.8571429"
+       inkscape:tile-h="7.8571429"
+       inkscape:tile-x0="67.142855"
+       inkscape:tile-y0="48.790755"
+       inkscape:export-filename="/Users/juliangethmann/Documents/uni-ka/phy/ph5/ex5script09/images/2009-11-10-6-idealer-kristall.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="matrix(0.56900473,0,0,0.56830447,375.39063,10.409119)" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#path7412-9"
+       xlink:href="#path7412-9"
+       id="use7967-7"
+       inkscape:export-filename="/Users/juliangethmann/Documents/uni-ka/phy/ph5/ex5script09/images/2009-11-10-6-idealer-kristall.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       width="744.09448"
+       height="1052.3622" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#path7412-9"
+       xlink:href="#path7412-9"
+       transform="translate(5.4346515e-7,22.326247)"
+       id="use7969-0"
+       inkscape:export-filename="/Users/juliangethmann/Documents/uni-ka/phy/ph5/ex5script09/images/2009-11-10-6-idealer-kristall.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       width="744.09448"
+       height="1052.3622" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#path7412-9"
+       xlink:href="#path7412-9"
+       transform="translate(5.4346515e-7,44.652494)"
+       id="use7971-3"
+       inkscape:export-filename="/Users/juliangethmann/Documents/uni-ka/phy/ph5/ex5script09/images/2009-11-10-6-idealer-kristall.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       width="744.09448"
+       height="1052.3622" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#path7412-9"
+       xlink:href="#path7412-9"
+       transform="translate(5.4346515e-7,89.304987)"
+       id="use7975-9"
+       inkscape:export-filename="/Users/juliangethmann/Documents/uni-ka/phy/ph5/ex5script09/images/2009-11-10-6-idealer-kristall.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       width="744.09448"
+       height="1052.3622" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#path7412-9"
+       xlink:href="#path7412-9"
+       transform="translate(5.4346515e-7,111.63123)"
+       id="use7977-8"
+       inkscape:export-filename="/Users/juliangethmann/Documents/uni-ka/phy/ph5/ex5script09/images/2009-11-10-6-idealer-kristall.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       width="744.09448"
+       height="1052.3622" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#path7412-9"
+       xlink:href="#path7412-9"
+       transform="translate(22.353761,-2.3492621e-7)"
+       id="use7979-6"
+       inkscape:export-filename="/Users/juliangethmann/Documents/uni-ka/phy/ph5/ex5script09/images/2009-11-10-6-idealer-kristall.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       width="744.09448"
+       height="1052.3622" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#path7412-9"
+       xlink:href="#path7412-9"
+       transform="translate(22.353761,111.63123)"
+       id="use7989-5"
+       inkscape:export-filename="/Users/juliangethmann/Documents/uni-ka/phy/ph5/ex5script09/images/2009-11-10-6-idealer-kristall.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       width="744.09448"
+       height="1052.3622" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#path7412-9"
+       xlink:href="#path7412-9"
+       transform="translate(44.707511,-2.3492621e-7)"
+       id="use7991-7"
+       inkscape:export-filename="/Users/juliangethmann/Documents/uni-ka/phy/ph5/ex5script09/images/2009-11-10-6-idealer-kristall.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       width="744.09448"
+       height="1052.3622" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#path7412-9"
+       xlink:href="#path7412-9"
+       transform="translate(44.707511,111.63123)"
+       id="use8001-6"
+       inkscape:export-filename="/Users/juliangethmann/Documents/uni-ka/phy/ph5/ex5script09/images/2009-11-10-6-idealer-kristall.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       width="744.09448"
+       height="1052.3622" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#path7412-9"
+       xlink:href="#path7412-9"
+       transform="translate(67.061271,-2.3492621e-7)"
+       id="use8003-2"
+       inkscape:export-filename="/Users/juliangethmann/Documents/uni-ka/phy/ph5/ex5script09/images/2009-11-10-6-idealer-kristall.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       width="744.09448"
+       height="1052.3622" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#path7412-9"
+       xlink:href="#path7412-9"
+       transform="translate(67.061271,111.63123)"
+       id="use8013-7"
+       inkscape:export-filename="/Users/juliangethmann/Documents/uni-ka/phy/ph5/ex5script09/images/2009-11-10-6-idealer-kristall.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       width="744.09448"
+       height="1052.3622" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#path7412-9"
+       xlink:href="#path7412-9"
+       transform="translate(89.415031,-2.3492621e-7)"
+       id="use8015-0"
+       inkscape:export-filename="/Users/juliangethmann/Documents/uni-ka/phy/ph5/ex5script09/images/2009-11-10-6-idealer-kristall.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       width="744.09448"
+       height="1052.3622" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#path7412-9"
+       xlink:href="#path7412-9"
+       transform="translate(89.415031,111.63123)"
+       id="use8025-3"
+       inkscape:export-filename="/Users/juliangethmann/Documents/uni-ka/phy/ph5/ex5script09/images/2009-11-10-6-idealer-kristall.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       width="744.09448"
+       height="1052.3622" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#path7412-9"
+       xlink:href="#path7412-9"
+       transform="translate(111.76879,-2.3492621e-7)"
+       id="use8027-9"
+       inkscape:export-filename="/Users/juliangethmann/Documents/uni-ka/phy/ph5/ex5script09/images/2009-11-10-6-idealer-kristall.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       width="744.09448"
+       height="1052.3622" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#path7412-9"
+       xlink:href="#path7412-9"
+       transform="translate(111.76879,111.63123)"
+       id="use8037-9"
+       inkscape:export-filename="/Users/juliangethmann/Documents/uni-ka/phy/ph5/ex5script09/images/2009-11-10-6-idealer-kristall.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       width="744.09448"
+       height="1052.3622" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#path7412-9"
+       xlink:href="#path7412-9"
+       transform="translate(134.12255,-2.3492621e-7)"
+       id="use8039-9"
+       inkscape:export-filename="/Users/juliangethmann/Documents/uni-ka/phy/ph5/ex5script09/images/2009-11-10-6-idealer-kristall.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       width="744.09448"
+       height="1052.3622" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#path7412-9"
+       xlink:href="#path7412-9"
+       transform="translate(134.12255,111.63123)"
+       id="use8049-1"
+       inkscape:export-filename="/Users/juliangethmann/Documents/uni-ka/phy/ph5/ex5script09/images/2009-11-10-6-idealer-kristall.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       width="744.09448"
+       height="1052.3622" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#path7412-9"
+       xlink:href="#path7412-9"
+       transform="translate(156.4763,-2.3492621e-7)"
+       id="use8051-7"
+       inkscape:export-filename="/Users/juliangethmann/Documents/uni-ka/phy/ph5/ex5script09/images/2009-11-10-6-idealer-kristall.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       width="744.09448"
+       height="1052.3622" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#path7412-9"
+       xlink:href="#path7412-9"
+       transform="translate(156.4763,111.63123)"
+       id="use8061-2"
+       inkscape:export-filename="/Users/juliangethmann/Documents/uni-ka/phy/ph5/ex5script09/images/2009-11-10-6-idealer-kristall.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       width="744.09448"
+       height="1052.3622" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#path7412-9"
+       xlink:href="#path7412-9"
+       transform="translate(178.83006,-2.3492621e-7)"
+       id="use8063-3"
+       inkscape:export-filename="/Users/juliangethmann/Documents/uni-ka/phy/ph5/ex5script09/images/2009-11-10-6-idealer-kristall.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       width="744.09448"
+       height="1052.3622" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#path7412-9"
+       xlink:href="#path7412-9"
+       transform="translate(178.83006,111.63123)"
+       id="use8073-6"
+       inkscape:export-filename="/Users/juliangethmann/Documents/uni-ka/phy/ph5/ex5script09/images/2009-11-10-6-idealer-kristall.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       width="744.09448"
+       height="1052.3622" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#path7412-9"
+       xlink:href="#path7412-9"
+       transform="translate(201.18382,-2.3492621e-7)"
+       id="use8075-5"
+       inkscape:export-filename="/Users/juliangethmann/Documents/uni-ka/phy/ph5/ex5script09/images/2009-11-10-6-idealer-kristall.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       width="744.09448"
+       height="1052.3622" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#path7412-9"
+       xlink:href="#path7412-9"
+       transform="translate(201.18382,22.326247)"
+       id="use8077-5"
+       inkscape:export-filename="/Users/juliangethmann/Documents/uni-ka/phy/ph5/ex5script09/images/2009-11-10-6-idealer-kristall.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       width="744.09448"
+       height="1052.3622" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#path7412-9"
+       xlink:href="#path7412-9"
+       transform="translate(201.18382,44.652494)"
+       id="use8079-8"
+       inkscape:export-filename="/Users/juliangethmann/Documents/uni-ka/phy/ph5/ex5script09/images/2009-11-10-6-idealer-kristall.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       width="744.09448"
+       height="1052.3622" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#path7412-9"
+       xlink:href="#path7412-9"
+       transform="translate(201.18382,66.978739)"
+       id="use8081-1"
+       inkscape:export-filename="/Users/juliangethmann/Documents/uni-ka/phy/ph5/ex5script09/images/2009-11-10-6-idealer-kristall.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       width="744.09448"
+       height="1052.3622" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#path7412-9"
+       xlink:href="#path7412-9"
+       transform="translate(201.18382,89.304987)"
+       id="use8083-4"
+       inkscape:export-filename="/Users/juliangethmann/Documents/uni-ka/phy/ph5/ex5script09/images/2009-11-10-6-idealer-kristall.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       width="744.09448"
+       height="1052.3622" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#path7412-9"
+       xlink:href="#path7412-9"
+       transform="translate(201.18382,111.63123)"
+       id="use8085-7"
+       inkscape:export-filename="/Users/juliangethmann/Documents/uni-ka/phy/ph5/ex5script09/images/2009-11-10-6-idealer-kristall.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       width="744.09448"
+       height="1052.3622" />
+    <text
+       xml:space="preserve"
+       style="font-size:11.37308979px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Helvetica"
+       x="519.76025"
+       y="91.776604"
+       id="text8087-1"
+       inkscape:export-filename="/Users/juliangethmann/Documents/uni-ka/phy/ph5/ex5script09/images/2009-11-10-6-idealer-kristall.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="scale(1.0006159,0.99938447)"><tspan
+         sodipodi:role="line"
+         id="tspan8089-3"
+         x="519.76025"
+         y="91.776604">Versetzung</tspan><tspan
+         sodipodi:role="line"
+         x="519.76025"
+         y="105.99297"
+         id="tspan9258">b-Burgersvektor</tspan><tspan
+         sodipodi:role="line"
+         x="519.76025"
+         y="120.20933"
+         id="tspan8091-8" /></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="m 401.40227,90.197424 0,-49.11775"
+       id="path8095-8"
+       inkscape:export-filename="/Users/juliangethmann/Documents/uni-ka/phy/ph5/ex5script09/images/2009-11-10-6-idealer-kristall.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="m 414.81452,26.365101 58.5262,0"
+       id="path8283-0"
+       inkscape:export-filename="/Users/juliangethmann/Documents/uni-ka/phy/ph5/ex5script09/images/2009-11-10-6-idealer-kristall.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="m 628.59773,59.245574 0,56.018586"
+       id="path8469-4"
+       inkscape:export-filename="/Users/juliangethmann/Documents/uni-ka/phy/ph5/ex5script09/images/2009-11-10-6-idealer-kristall.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="m 613.55975,164.78784 -64.21625,0"
+       id="path8655-6"
+       inkscape:export-filename="/Users/juliangethmann/Documents/uni-ka/phy/ph5/ex5script09/images/2009-11-10-6-idealer-kristall.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       transform="matrix(0.56900473,0,0,0.56830447,375.39063,77.387858)"
+       sodipodi:type="arc"
+       style="fill:none;stroke:#000000;stroke-width:1.75853705;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path7412-2-0"
+       sodipodi:cx="71.071426"
+       sodipodi:cy="52.719326"
+       sodipodi:rx="3.9285715"
+       sodipodi:ry="3.9285715"
+       d="m 74.999998,52.719326 a 3.9285715,3.9285715 0 1 1 -7.857143,0 3.9285715,3.9285715 0 1 1 7.857143,0 z"
+       inkscape:tile-cx="71.071426"
+       inkscape:tile-cy="52.719326"
+       inkscape:tile-w="7.8571429"
+       inkscape:tile-h="7.8571429"
+       inkscape:tile-x0="67.142855"
+       inkscape:tile-y0="48.790755"
+       inkscape:export-filename="/Users/juliangethmann/Documents/uni-ka/phy/ph5/ex5script09/images/2009-11-10-6-idealer-kristall.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:11.37308979px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Helvetica"
+       x="421.87048"
+       y="108.02387"
+       id="text8863-3"
+       inkscape:export-filename="/Users/juliangethmann/Documents/uni-ka/phy/ph5/ex5script09/images/2009-11-10-6-idealer-kristall.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="scale(1.0006159,0.99938447)"><tspan
+         sodipodi:role="line"
+         id="tspan8865-2"
+         x="421.87048"
+         y="108.02387">M'</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.37308979px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Helvetica"
+       x="376.82785"
+       y="108.28217"
+       id="text8867-6"
+       inkscape:export-filename="/Users/juliangethmann/Documents/uni-ka/phy/ph5/ex5script09/images/2009-11-10-6-idealer-kristall.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="scale(1.0006159,0.99938447)"><tspan
+         sodipodi:role="line"
+         id="tspan8869-9"
+         x="376.82785"
+         y="108.28217">M</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Send)"
+       d="m 475.02423,95.747721 5.05077,0"
+       id="path9260"
+       inkscape:export-filename="/Users/juliangethmann/Documents/uni-ka/phy/ph5/ex5script09/images/2009-11-10-6-idealer-kristall.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <use
+       height="1052.3622"
+       width="744.09448"
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/Users/juliangethmann/Documents/uni-ka/phy/ph5/ex5script09/images/2009-11-10-6-idealer-kristall.png"
+       id="use9458"
+       xlink:href="#path7412-9"
+       inkscape:tiled-clone-of="#path7412-9"
+       y="0"
+       x="0" />
+    <use
+       height="1052.3622"
+       width="744.09448"
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/Users/juliangethmann/Documents/uni-ka/phy/ph5/ex5script09/images/2009-11-10-6-idealer-kristall.png"
+       id="use9458-4"
+       xlink:href="#path7412-9"
+       inkscape:tiled-clone-of="#path7412-9"
+       y="0"
+       x="0"
+       transform="translate(-23.386344,66.978739)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
+       d="m 395.9798,107.34849 15.40482,0"
+       id="path9482"
+       inkscape:export-filename="/Users/juliangethmann/Documents/uni-ka/phy/ph5/ex5script09/images/2009-11-10-6-idealer-kristall.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Helvetica"
+       x="509.11688"
+       y="32.613186"
+       id="text10070"
+       inkscape:export-filename="/Users/juliangethmann/Documents/uni-ka/phy/ph5/ex5script09/images/2009-11-10-6-idealer-kristall.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan10072"
+         x="509.11688"
+         y="32.613186">N</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Helvetica"
+       x="511.64224"
+       y="172.01424"
+       id="text10074"
+       inkscape:export-filename="/Users/juliangethmann/Documents/uni-ka/phy/ph5/ex5script09/images/2009-11-10-6-idealer-kristall.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan10076"
+         x="511.64224"
+         y="172.01424">N</tspan></text>
+  </g>
+</svg>
